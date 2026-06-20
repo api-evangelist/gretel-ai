@@ -8,7 +8,7 @@ description: >-
   and a library of model recipes for generating, transforming, and de-identifying
   data. The platform exposes ingestion, project, model, and record-handler
   endpoints over HTTPS.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Synthetic Data
   - Privacy Engineering
@@ -28,7 +28,7 @@ apis:
       REST API for Gretel's synthetic data platform. Lets you ingest data,
       manage projects, train models, run record handlers, and pull artifacts.
       Used as the backend for the gretel-client Python SDK and CLI.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://api.docs.gretel.ai/
     baseURL: https://api.gretel.ai
     tags:
@@ -53,7 +53,7 @@ apis:
       Python SDK and CLI (gretel-client) for interacting with Gretel APIs.
       Provides a high-level Gretel interface plus lower-level Projects, Models,
       and Record Handler SDKs.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://python.docs.gretel.ai/
     baseURL: https://api.gretel.ai
     tags:
