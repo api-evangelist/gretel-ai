@@ -41,7 +41,7 @@ apis:
         url: https://api.docs.gretel.ai/
       - type: ProductDocs
         url: https://docs.gretel.ai/
-      - type: SDK
+      - type: SDKs
         title: Python (gretel-client)
         url: https://python.docs.gretel.ai/
       - type: SourceCode
