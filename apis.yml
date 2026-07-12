@@ -68,6 +68,8 @@ apis:
       - type: Setup
         url: https://docs.gretel.ai/gretel-basics/getting-started/environment-setup/cli-and-sdk
 common:
+  - type: DomainSecurity
+    url: security/gretel-ai-domain-security.yml
   - type: Website
     url: https://gretel.ai/
   - type: Documentation
