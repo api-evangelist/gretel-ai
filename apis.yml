@@ -80,6 +80,13 @@ apis:
       - type: Setup
         url: https://docs.gretel.ai/gretel-basics/getting-started/environment-setup/cli-and-sdk
 common:
+  - type: IssueTracker
+    url: https://github.com/gretelai/gretel-python-client/issues
+  - type: Releases
+    url: https://github.com/gretelai/gretel-python-client/releases
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/gretelai/gretel-python-client/blob/main/LICENSE
   - type: DomainSecurity
     url: security/gretel-ai-domain-security.yml
   - type: Website
