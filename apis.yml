@@ -26,6 +26,15 @@ tags:
   - Privacy Engineering
   - Tabular
   - Text
+  - Time Series
+  - REST
+  - Python SDK
+  - Ai Data
+tags_raw:
+  - Synthetic Data
+  - Privacy Engineering
+  - Tabular
+  - Text
   - Time-Series
   - REST
   - Python SDK
@@ -44,6 +53,11 @@ apis:
     humanURL: https://api.docs.gretel.ai/
     baseURL: https://api.gretel.ai
     tags:
+      - REST
+      - Project
+      - Models
+      - Synthetic Data
+    tags_raw:
       - REST
       - Projects
       - Models
