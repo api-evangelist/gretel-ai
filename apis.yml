@@ -8,6 +8,19 @@ description: >-
   and a library of model recipes for generating, transforming, and de-identifying
   data. The platform exposes ingestion, project, model, and record-handler
   endpoints over HTTPS.
+deliveryModel:
+  model: open-core
+  license: Apache-2.0
+  open_source: true
+  commercial: true
+  callable_host: false
+  label: Open core · an OSS project plus a commercial hosted product
+  confidence: high
+  source:
+  - license
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
