@@ -1,4 +1,4 @@
-# gretel-ai
+# Gretel
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gretel — synthetic data platform + Gretel Tabular / Text / Time-Series
+Gretel is a synthetic data platform for tabular, text, and time-series data. It pairs a REST API and Python client (gretel-client) with Gretel Navigator and a library of model recipes for generating, transforming, and de-identifying data. The platform exposes ingestion, project, model, and record-handler endpoints over HTTPS.
+
+**Areas:** Synthetic Data · Privacy Engineering · Tabular · Text · Time Series · REST · Python SDK · Ai Data
+
+## Gretel on APIs.io
+
+Everything profiled for Gretel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gretel-ai/](https://apis.io/providers/gretel-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Gretel REST API](https://apis.io/apis/gretel-ai/rest-api/) — REST API for Gretel's synthetic data platform. Lets you ingest data, manage projects, train models, run record handlers, and pull artifacts. Used as the…
+- [Gretel Python Client SDK](https://apis.io/apis/gretel-ai/python-sdk/) — Python SDK and CLI (gretel-client) for interacting with Gretel APIs. Provides a high-level Gretel interface plus lower-level Projects, Models, and Record…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gretel Ai Domain Security](https://apis.io/security/gretel-ai/gretel-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gretel Ai Plans Pricing](https://apis.io/plans/gretel-ai/gretel-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Gretel Ai Rate Limits](https://apis.io/rate-limits/gretel-ai/gretel-ai-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Gretel Ai Finops](https://apis.io/finops/gretel-ai/gretel-ai-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gretel.ai/)
+- [Documentation](https://docs.gretel.ai/)
+
+## API Evangelist rating
+
+**Kin Score 13.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gretel-ai/](https://apis.io/providers/gretel-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gretel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gretel-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
